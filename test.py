@@ -4,3 +4,4 @@
 # git commit -m "xxx"
 # git log
 # git diff
+# git remote add origin [url]
