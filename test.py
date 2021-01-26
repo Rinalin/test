@@ -6,4 +6,6 @@
 # git log
 # git diff
 # git remote add origin [url]
+# git checkout master // change branch
+# git checkout -b apple // create new branch
 # test
